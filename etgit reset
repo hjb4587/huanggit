@@ -1,0 +1,46 @@
+[33ma05be00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: merge repo-doc: Merge made by the 'recursive' strategy.
+[33m82ff306[m HEAD@{1}: checkout: moving from repo-doc to master
+[33m31d39c4[m[33m ([m[1;32mrepo-doc[m[33m)[m HEAD@{2}: commit: '为仓库文档添加一段描述'
+[33me721e1f[m HEAD@{3}: checkout: moving from master to repo-doc
+[33m82ff306[m HEAD@{4}: merge add-bottom-text: Fast-forward
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{5}: checkout: moving from add-bottom-text to master
+[33m82ff306[m HEAD@{6}: commit: 为resouces添加底部文字
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{7}: checkout: moving from master to add-bottom-text
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{8}: checkout: moving from 'add-bottom-text' to master
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{9}: checkout: moving from master to 'add-bottom-text'
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{10}: checkout: moving from 'add-bottom-text' to master
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{11}: checkout: moving from master to 'add-bottom-text'
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{12}: checkout: moving from repo-doc to master
+[33me721e1f[m HEAD@{13}: commit: '添加仓库文档的大标题'
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{14}: checkout: moving from master to repo-doc
+[33m7521e00[m[33m ([m[1;32m'add-bottom-text'[m[33m)[m HEAD@{15}: merge smiley-face: Merge made by the 'recursive' strategy.
+[33m05cf726[m HEAD@{16}: commit: '在说明文档底部添加内容作者
+[33mf7db2d2[m HEAD@{17}: reset: moving to HEAD~1
+[33m7a2856a[m HEAD@{18}: merge smiley-face: Merge made by the 'recursive' strategy.
+[33mf7db2d2[m HEAD@{19}: reset: moving to HEAD~1
+[33m4b08511[m HEAD@{20}: merge smiley-face: Fast-forward
+[33mf7db2d2[m HEAD@{21}: checkout: moving from smiley-face to master
+[33m4b08511[m HEAD@{22}: checkout: moving from master to smiley-face
+[33mf7db2d2[m HEAD@{23}: checkout: moving from smiley-face to master
+[33m4b08511[m HEAD@{24}: commit: '在文档中添加笑脸符号'
+[33mf7db2d2[m HEAD@{25}: checkout: moving from master to smiley-face
+[33mf7db2d2[m HEAD@{26}: commit (amend): 去掉文档出中的笑脸笑脸符号
+[33mdfc476d[m HEAD@{27}: commit (amend): 去掉文档出中的笑脸笑脸符号
+[33m87a8ab7[m HEAD@{28}: commit: 去掉文档出中的笑脸笑脸符号
+[33m91f69ca[m HEAD@{29}: commit (amend): 流程SSD
+[33md877a9c[m HEAD@{30}: commit: 流程
+[33m840b290[m HEAD@{31}: commit: 在相关资源里添加一个资源项目列表项目
+[33m91ce5d1[m HEAD@{32}: commit: 在说明文档里添加一段描述
+[33m8c8651c[m HEAD@{33}: reset: moving to HEAD
+[33m8c8651c[m HEAD@{34}: reset: moving to 8c8651c
+[33mb9095c1[m HEAD@{35}: commit: Revert让标题微笑
+[33m7a7be14[m HEAD@{36}: revert: Revert "'很好'"
+[33m8c8651c[m HEAD@{37}: checkout: moving from a634872771ec9a7f6d919bfb5ab575a47ff9d9cc to master
+[33ma634872[m HEAD@{38}: checkout: moving from master to a634872
+[33m8c8651c[m HEAD@{39}: commit: 让README标题的首字母大写
+[33m03b3d49[m HEAD@{40}: commit: '让标题微笑'
+[33m0b5f8ec[m HEAD@{41}: commit: '很好'
+[33m302e8d8[m HEAD@{42}: commit: '设置设置相关资源文档标题'
+[33ma634872[m HEAD@{43}: commit: '添加相关资源文档'
+[33mbc9ee5d[m HEAD@{44}: commit: '设置说明文档的标题'
+[33mf835a8f[m HEAD@{45}: commit (initial): '初始化'
